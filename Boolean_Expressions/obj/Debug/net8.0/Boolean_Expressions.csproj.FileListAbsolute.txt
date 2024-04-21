@@ -1,0 +1,15 @@
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/bin/Debug/net8.0/Boolean_Expressions
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/bin/Debug/net8.0/Boolean_Expressions.deps.json
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/bin/Debug/net8.0/Boolean_Expressions.runtimeconfig.json
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/bin/Debug/net8.0/Boolean_Expressions.dll
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/bin/Debug/net8.0/Boolean_Expressions.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.AssemblyInfoInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.AssemblyInfo.cs
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.csproj.CoreCompileInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.sourcelink.json
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.dll
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/refint/Boolean_Expressions.dll
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/Boolean_Expressions.genruntimeconfig.cache
+/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/Debug/net8.0/ref/Boolean_Expressions.dll
