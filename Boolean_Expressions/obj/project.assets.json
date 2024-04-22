@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/italo_thiago/.nuget/packages/": {}
+    "C:\\Users\\italo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/Boolean_Expressions.csproj",
+      "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj",
       "projectName": "Boolean_Expressions",
-      "projectPath": "/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/Boolean_Expressions.csproj",
-      "packagesPath": "/home/italo_thiago/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/italo/Desktop/Cursos/Microsoft-Learn/Boolean_Expressions/obj/",
+      "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj",
+      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/italo_thiago/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
