@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Coin_Toss/1.0.0": {
+        "runtime": {
+          "Coin_Toss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coin_Toss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

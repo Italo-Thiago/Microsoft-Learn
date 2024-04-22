@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\bin\Debug\net8.0\Coin_Toss.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\bin\Debug\net8.0\Coin_Toss.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\bin\Debug\net8.0\Coin_Toss.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\bin\Debug\net8.0\Coin_Toss.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\bin\Debug\net8.0\Coin_Toss.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\refint\Coin_Toss.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\Coin_Toss.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Coin_Toss\obj\Debug\net8.0\ref\Coin_Toss.dll
