@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Permission_and_levels/1.0.0": {
+        "runtime": {
+          "Permission_and_levels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Permission_and_levels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
