@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\bin\Debug\net8.0\Refactoring_for_Switch.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\bin\Debug\net8.0\Refactoring_for_Switch.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\bin\Debug\net8.0\Refactoring_for_Switch.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\bin\Debug\net8.0\Refactoring_for_Switch.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\bin\Debug\net8.0\Refactoring_for_Switch.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\refint\Refactoring_for_Switch.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\Refactoring_for_Switch.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Refactoring_for_Switch\obj\Debug\net8.0\ref\Refactoring_for_Switch.dll
