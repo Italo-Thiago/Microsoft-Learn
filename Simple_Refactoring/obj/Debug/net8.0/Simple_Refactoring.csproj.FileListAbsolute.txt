@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\bin\Debug\net8.0\Simple_Refactoring.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\bin\Debug\net8.0\Simple_Refactoring.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\bin\Debug\net8.0\Simple_Refactoring.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\bin\Debug\net8.0\Simple_Refactoring.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\bin\Debug\net8.0\Simple_Refactoring.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\refint\Simple_Refactoring.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\Simple_Refactoring.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Simple_Refactoring\obj\Debug\net8.0\ref\Simple_Refactoring.dll
