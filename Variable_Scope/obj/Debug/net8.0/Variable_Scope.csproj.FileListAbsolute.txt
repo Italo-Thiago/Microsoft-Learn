@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\bin\Debug\net8.0\Variable_Scope.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\bin\Debug\net8.0\Variable_Scope.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\bin\Debug\net8.0\Variable_Scope.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\bin\Debug\net8.0\Variable_Scope.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\bin\Debug\net8.0\Variable_Scope.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\refint\Variable_Scope.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\Variable_Scope.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Variable_Scope\obj\Debug\net8.0\ref\Variable_Scope.dll
