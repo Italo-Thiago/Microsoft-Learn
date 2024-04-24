@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\bin\Debug\net8.0\Switch_Example.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\bin\Debug\net8.0\Switch_Example.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\bin\Debug\net8.0\Switch_Example.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\bin\Debug\net8.0\Switch_Example.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\bin\Debug\net8.0\Switch_Example.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\refint\Switch_Example.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\Switch_Example.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Switch_Example\obj\Debug\net8.0\ref\Switch_Example.dll
