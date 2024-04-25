@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\bin\Debug\net8.0\Basic_For_Loop.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\bin\Debug\net8.0\Basic_For_Loop.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\bin\Debug\net8.0\Basic_For_Loop.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\bin\Debug\net8.0\Basic_For_Loop.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\bin\Debug\net8.0\Basic_For_Loop.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\refint\Basic_For_Loop.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\Basic_For_Loop.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Basic_For_Loop\obj\Debug\net8.0\ref\Basic_For_Loop.dll
