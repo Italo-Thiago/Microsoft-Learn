@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\bin\Debug\net8.0\Hero_versus_Monster.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\bin\Debug\net8.0\Hero_versus_Monster.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\bin\Debug\net8.0\Hero_versus_Monster.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\bin\Debug\net8.0\Hero_versus_Monster.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\bin\Debug\net8.0\Hero_versus_Monster.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\refint\Hero_versus_Monster.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\Hero_versus_Monster.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Hero_versus_Monster\obj\Debug\net8.0\ref\Hero_versus_Monster.dll

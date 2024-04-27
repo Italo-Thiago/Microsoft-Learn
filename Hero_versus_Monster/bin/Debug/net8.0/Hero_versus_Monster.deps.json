@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hero_versus_Monster/1.0.0": {
+        "runtime": {
+          "Hero_versus_Monster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hero_versus_Monster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
