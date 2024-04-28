@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exemples_of_do-while_Loop/1.0.0": {
+        "runtime": {
+          "Exemples_of_do-while_Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemples_of_do-while_Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
