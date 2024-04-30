@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\bin\Debug\net8.0\Integral_Types.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\bin\Debug\net8.0\Integral_Types.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\bin\Debug\net8.0\Integral_Types.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\bin\Debug\net8.0\Integral_Types.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\bin\Debug\net8.0\Integral_Types.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\refint\Integral_Types.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\Integral_Types.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Integral_Types\obj\Debug\net8.0\ref\Integral_Types.dll
