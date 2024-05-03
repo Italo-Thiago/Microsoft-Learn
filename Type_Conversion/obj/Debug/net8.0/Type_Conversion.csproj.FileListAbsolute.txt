@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\bin\Debug\net8.0\Type_Conversion.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\bin\Debug\net8.0\Type_Conversion.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\bin\Debug\net8.0\Type_Conversion.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\bin\Debug\net8.0\Type_Conversion.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\bin\Debug\net8.0\Type_Conversion.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\refint\Type_Conversion.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\Type_Conversion.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Type_Conversion\obj\Debug\net8.0\ref\Type_Conversion.dll
