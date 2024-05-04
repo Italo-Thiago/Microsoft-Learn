@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Methods_in_Arrays/1.0.0": {
+        "runtime": {
+          "Methods_in_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods_in_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
