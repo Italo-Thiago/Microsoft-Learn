@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\bin\Debug\net8.0\Wrong_Request.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\bin\Debug\net8.0\Wrong_Request.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\bin\Debug\net8.0\Wrong_Request.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\bin\Debug\net8.0\Wrong_Request.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\bin\Debug\net8.0\Wrong_Request.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\refint\Wrong_Request.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\Wrong_Request.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Wrong_Request\obj\Debug\net8.0\ref\Wrong_Request.dll
