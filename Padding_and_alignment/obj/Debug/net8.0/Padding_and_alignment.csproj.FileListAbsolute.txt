@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\bin\Debug\net8.0\Padding_and_alignment.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\bin\Debug\net8.0\Padding_and_alignment.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\bin\Debug\net8.0\Padding_and_alignment.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\bin\Debug\net8.0\Padding_and_alignment.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\bin\Debug\net8.0\Padding_and_alignment.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\refint\Padding_and_alignment.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\Padding_and_alignment.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Padding_and_alignment\obj\Debug\net8.0\ref\Padding_and_alignment.dll

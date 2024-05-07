@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Padding_and_alignment/1.0.0": {
+        "runtime": {
+          "Padding_and_alignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Padding_and_alignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
