@@ -32,3 +32,23 @@ comparisonMessage = $"{newProduct.PadRight(20)}{newReturn:P}   {newProfit:C}";
 Console.WriteLine(comparisonMessage);
 
 // Microsoft Learn Solution
+
+Console.WriteLine($"Dear {customerName},");
+Console.WriteLine($"As a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.\n");
+Console.WriteLine($"Currently, you own {currentShares:N} shares at a return of {currentReturn:P}.\n");
+Console.WriteLine($"Our new product, {newProduct} offers a return of {newReturn:P}.  Given your current volume, your potential profit would be {newProfit:C}.\n");
+
+Console.WriteLine("Here's a quick comparison:\n");
+
+string comparisonMessageTwo = "";
+
+comparisonMessageTwo = currentProduct.PadRight(20);
+comparisonMessageTwo += String.Format("{0:P}", currentReturn).PadRight(10);
+comparisonMessageTwo += String.Format("{0:C}", currentProfit).PadRight(20);
+
+comparisonMessageTwo += "\n";
+comparisonMessageTwo += newProduct.PadRight(20);
+comparisonMessageTwo += String.Format("{0:P}", newReturn).PadRight(10);
+comparisonMessageTwo += String.Format("{0:C}", newProfit).PadRight(20);
+
+Console.WriteLine(comparisonMessageTwo);
