@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\bin\Debug\net8.0\Interpolation_Exercise.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\bin\Debug\net8.0\Interpolation_Exercise.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\bin\Debug\net8.0\Interpolation_Exercise.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\bin\Debug\net8.0\Interpolation_Exercise.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\bin\Debug\net8.0\Interpolation_Exercise.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\refint\Interpolation_Exercise.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\Interpolation_Exercise.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Interpolation_Exercise\obj\Debug\net8.0\ref\Interpolation_Exercise.dll

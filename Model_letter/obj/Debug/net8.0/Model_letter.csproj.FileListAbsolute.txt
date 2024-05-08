@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\bin\Debug\net8.0\Model_letter.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\bin\Debug\net8.0\Model_letter.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\bin\Debug\net8.0\Model_letter.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\bin\Debug\net8.0\Model_letter.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\bin\Debug\net8.0\Model_letter.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\refint\Model_letter.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\Model_letter.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Model_letter\obj\Debug\net8.0\ref\Model_letter.dll

@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\bin\Debug\net8.0\Array_Challenge.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\bin\Debug\net8.0\Array_Challenge.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\bin\Debug\net8.0\Array_Challenge.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\bin\Debug\net8.0\Array_Challenge.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\bin\Debug\net8.0\Array_Challenge.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\refint\Array_Challenge.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\Array_Challenge.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Array_Challenge\obj\Debug\net8.0\ref\Array_Challenge.dll

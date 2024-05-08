@@ -17,7 +17,7 @@ string type = product[0] switch
 string color = product[1] switch
 {
     "BL" => color = "Black",
-    "MN" => color = "Marron",
+    "MN" => color = "Marrom",
     _    => color = "White"
 };
 

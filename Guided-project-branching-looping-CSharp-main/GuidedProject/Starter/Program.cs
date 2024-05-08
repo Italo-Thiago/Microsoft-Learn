@@ -282,6 +282,24 @@ do
             break;
 
         case "3":
+            // Ignore qualquer animal na matriz ourAnimals quando o valor da ID do animal de estimação está definido como o valor padrão.
+            
+
+            // Exiba o valor da ID do animal de estimação e solicite ao usuário um valor de dados atualizado caso os dados da matriz ourAnimals estejam ausentes ou incompletos
+
+            // Verifique se há um valor numérico válido atribuído a animalAge para todos os animais na matriz ourAnimals com dados atribuídos
+
+            // Aplique as seguintes regras de validação para animalAge.
+            //      Deve ser possível converter o valor inserido em um tipo de dados numérico.
+
+            // Aplique as seguintes regras de validação para animalPhysicalDescription
+                // Os valores não podem ser nulos.
+                // Os valores não podem ter zero caracteres.
+                // Qualquer restrição adicional caba ao desenvolvedor.
+
+            // Informe o usuário do aplicativo quanto todos os requisitos de dados forem atendidos, pausando o aplicativo para garantir que a mensagem seja vista e respondida.
+
+
             // Ensure animal ages and physical descriptions are complete
             Console.WriteLine("Challenge Project - please check back soon to see progress");
             Console.WriteLine("Press the Enter key to continue.");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj": {}
+    "c:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj": {
+    "c:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj",
+        "projectUniqueName": "c:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj",
         "projectName": "Boolean_Expressions",
-        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj",
+        "projectPath": "c:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\Boolean_Expressions.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\obj\\",
+        "outputPath": "c:\\Users\\italo\\Desktop\\Cursos\\Microsoft-Learn\\Boolean_Expressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"

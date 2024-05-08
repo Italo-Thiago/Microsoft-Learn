@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\bin\Debug\net8.0\Exemple_do-while_loop.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\bin\Debug\net8.0\Exemple_do-while_loop.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\bin\Debug\net8.0\Exemple_do-while_loop.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\bin\Debug\net8.0\Exemple_do-while_loop.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\bin\Debug\net8.0\Exemple_do-while_loop.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\refint\Exemple_do-while_loop.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\Exemple_do-while_loop.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exemple_do-while_loop\obj\Debug\net8.0\ref\Exemple_do-while_loop.dll
