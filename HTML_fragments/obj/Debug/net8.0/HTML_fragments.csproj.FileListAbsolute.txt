@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\bin\Debug\net8.0\HTML_fragments.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\bin\Debug\net8.0\HTML_fragments.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\bin\Debug\net8.0\HTML_fragments.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\bin\Debug\net8.0\HTML_fragments.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\bin\Debug\net8.0\HTML_fragments.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\refint\HTML_fragments.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\HTML_fragments.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\HTML_fragments\obj\Debug\net8.0\ref\HTML_fragments.dll
