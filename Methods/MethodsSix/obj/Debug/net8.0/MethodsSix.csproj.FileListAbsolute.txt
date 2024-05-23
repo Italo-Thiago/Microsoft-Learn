@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\bin\Debug\net8.0\MethodsSix.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\bin\Debug\net8.0\MethodsSix.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\bin\Debug\net8.0\MethodsSix.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\bin\Debug\net8.0\MethodsSix.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\bin\Debug\net8.0\MethodsSix.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\refint\MethodsSix.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\MethodsSix.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsSix\obj\Debug\net8.0\ref\MethodsSix.dll

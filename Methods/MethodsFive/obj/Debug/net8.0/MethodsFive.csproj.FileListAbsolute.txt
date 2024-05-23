@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\bin\Debug\net8.0\MethodsFive.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\bin\Debug\net8.0\MethodsFive.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\bin\Debug\net8.0\MethodsFive.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\bin\Debug\net8.0\MethodsFive.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\bin\Debug\net8.0\MethodsFive.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\refint\MethodsFive.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\MethodsFive.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsFive\obj\Debug\net8.0\ref\MethodsFive.dll
