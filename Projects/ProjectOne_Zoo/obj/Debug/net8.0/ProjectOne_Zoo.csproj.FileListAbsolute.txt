@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\bin\Debug\net8.0\ProjectOne_Zoo.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\bin\Debug\net8.0\ProjectOne_Zoo.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\bin\Debug\net8.0\ProjectOne_Zoo.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\bin\Debug\net8.0\ProjectOne_Zoo.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\bin\Debug\net8.0\ProjectOne_Zoo.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\refint\ProjectOne_Zoo.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ProjectOne_Zoo.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Projects\ProjectOne_Zoo\obj\Debug\net8.0\ref\ProjectOne_Zoo.dll
