@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\bin\Debug\net8.0\MethodsTwo.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\bin\Debug\net8.0\MethodsTwo.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\bin\Debug\net8.0\MethodsTwo.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\bin\Debug\net8.0\MethodsTwo.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\bin\Debug\net8.0\MethodsTwo.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\refint\MethodsTwo.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\MethodsTwo.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsTwo\obj\Debug\net8.0\ref\MethodsTwo.dll

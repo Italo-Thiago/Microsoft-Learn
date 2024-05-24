@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\bin\Debug\net8.0\MethodsThree.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\bin\Debug\net8.0\MethodsThree.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\bin\Debug\net8.0\MethodsThree.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\bin\Debug\net8.0\MethodsThree.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\bin\Debug\net8.0\MethodsThree.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\refint\MethodsThree.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\MethodsThree.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsThree\obj\Debug\net8.0\ref\MethodsThree.dll

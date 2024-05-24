@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\bin\Debug\net8.0\MethodsOne.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\bin\Debug\net8.0\MethodsOne.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\bin\Debug\net8.0\MethodsOne.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\bin\Debug\net8.0\MethodsOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\bin\Debug\net8.0\MethodsOne.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\refint\MethodsOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\MethodsOne.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Methods\MethodsOne\obj\Debug\net8.0\ref\MethodsOne.dll
