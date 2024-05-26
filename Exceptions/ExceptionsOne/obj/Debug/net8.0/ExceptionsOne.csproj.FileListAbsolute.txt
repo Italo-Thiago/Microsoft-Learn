@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\bin\Debug\net8.0\ExceptionsOne.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\bin\Debug\net8.0\ExceptionsOne.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\bin\Debug\net8.0\ExceptionsOne.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\bin\Debug\net8.0\ExceptionsOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\bin\Debug\net8.0\ExceptionsOne.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\refint\ExceptionsOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ExceptionsOne.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ExceptionsOne\obj\Debug\net8.0\ref\ExceptionsOne.dll
