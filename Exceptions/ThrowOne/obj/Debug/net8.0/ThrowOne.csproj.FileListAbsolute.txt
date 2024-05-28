@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\bin\Debug\net8.0\ThrowOne.exe
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\bin\Debug\net8.0\ThrowOne.deps.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\bin\Debug\net8.0\ThrowOne.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\bin\Debug\net8.0\ThrowOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\bin\Debug\net8.0\ThrowOne.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\refint\ThrowOne.dll
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.pdb
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ThrowOne.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Microsoft-Learn\Exceptions\ThrowOne\obj\Debug\net8.0\ref\ThrowOne.dll
